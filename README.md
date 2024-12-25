@@ -1,1 +1,1 @@
-# luna_reservation_maintenance
+# 婦人科予約システムメンテナンスページ
